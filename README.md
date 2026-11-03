@@ -1,28 +1,4 @@
-**Predicting Biomolecule Adsorption on Multi-Phase Cement Surfaces Using PMF-Based Machine Learning**
 
-**Nichol Joseph**
-
-Student Number: 25203565
-
-Thesis submitted to the faculty of the School of Physics at University College Dublin in partial fulfilment of the requirements for the degree of Master of Science in Computational Physics
-
-**Supervisor: Professor Vladimir Lobaskin**
-
-School of Physics, University College Dublin
-
-August 2026
-
-**Statement of Original Authorship**
-
-I hereby certify that the submitted work is my own work. The work was completed while registered as a candidate for the degree stated on the Title Page, and I have not obtained a degree elsewhere based on the research presented in this submitted work.
-
-Signed:  Date: 30/08/2026
-
-**Acknowledgements**
-
-I would like to acknowledge the entire UCD Physics Department and the Soft Matter Modelling Lab for the support in this project. I am grateful to prof. Nicolae-Viorel Buchete and prof. Vladimir Lobaskin, your invaluable guidance and deep knowledge have not only shaped this project but have also supported me throughout the academic year.
-
-Thank you.
 
 Contents
 
